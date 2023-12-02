@@ -1,5 +1,5 @@
-# Member-Initialzers Sololearn
-You are making a program to store TVs with their width and height.
+# Member-Initialzers
+You are making a program on Sololearn to store TVs with their width and height.
 
 The given program declares a TV class with height and width members, an area() method, as well as a constructor that initializes the members of the class.
 
