@@ -7,14 +7,13 @@ public:
     void area() {                               //and width respectally with h and w.
         cout << height * width;
     }
-
 private:
     int height;
     int width;
 };
 
 int main() {
-    int h, w;
+    int h, w; //to store height and width
 
     cout << "Enter the height of the TV: ";
     cin >> h;
